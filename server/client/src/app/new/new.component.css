@@ -1,0 +1,24 @@
+ .main-products {
+    width: 100%;
+    min-height: 250px;
+    
+}
+.products-container {
+    margin:auto;
+    width: 60%;
+  
+}
+
+.the-products {
+    width: 200px;
+    height: 300px;
+    border:1px initial 	#3e8e41;
+    text-decoration: none;
+    background-color: 	#3e8e41;
+    list-style: unset;
+    margin: 20px;
+    display: inline-block;
+    color: deeppink;
+    
+
+}

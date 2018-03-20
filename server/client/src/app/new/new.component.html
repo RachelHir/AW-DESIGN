@@ -1,0 +1,6 @@
+<section class="main-products">
+  <div class="products-container">
+
+  <div [routerLink]="['/new/product-details', product._id]" class="the-products" *ngFor="let product of products">{{product._id}} - {{product.name }} - {{product.price }}</div>
+  </div>
+</section>

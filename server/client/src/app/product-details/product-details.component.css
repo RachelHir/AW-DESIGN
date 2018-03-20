@@ -1,0 +1,157 @@
+.product-pic{
+
+    height: 300px;
+    width: 250px;
+    margin:0 auto;
+    background: blue;
+    
+
+}
+
+.prod-details{
+
+    width: 1349px;
+    margin-bottom: 40px;
+ 
+
+
+}
+
+.prod-details h3{
+    
+    font-family: sans-serif;
+    color:  #575153;
+    font-size: 17px;
+    text-align: left;
+    margin-top:0%;
+    margin-bottom: 2%;
+}
+
+.wear-details{
+
+    width: 330px;
+    margin:0 auto;
+    
+    
+}
+.new-price{
+
+    width: 50px;
+
+
+}
+.star{
+    display: inline-flex;  
+    font-family: sans-serif;
+    color:  #ded3aa;
+    font-size: 11px;
+    text-align: left;
+    margin-bottom: 2%;
+}
+
+.star:nth-child(5){
+
+    color:grey;
+}
+    
+.review, .addrev{
+    display: inline-flex;
+    font-family:sans-serif;
+    color:  #727272;
+    font-size: 12px;
+    text-align: left;
+    border-right:1px solid  #727272;
+    padding-right: 1%;
+
+}
+
+.addrev:hover{
+
+    color:#00c8c8;
+
+}
+
+.shere-symbol{
+    display: inline-flex;
+    font-family:sans-serif;
+    color:  #727272;
+    font-size: 12px;
+    text-align: left;
+    padding-right: 2%;
+    
+
+}
+
+.shere-symbol i{
+
+   margin-left: 4%;
+
+}
+
+
+.product-detaile{
+
+    font-family:sans-serif;
+    color:  #575153;
+    font-size: 11px;
+    line-height:16px;
+    text-align: left;
+    width: 350px;
+
+}
+
+.wear-details ul{
+
+    margin-top: 2%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+
+}
+.wear-details li{
+    display: list-item;
+    font-family:sans-serif;
+    color:  #575153;
+    font-size: 11px;
+    line-height:16px;
+    text-align: left;
+   
+}
+
+.title-input h4{
+
+        display: inline-flex;
+        padding-right: 25%;
+        font-family:sans-serif;
+        color:  #575153;
+        font-size: 10px;
+        line-height:16px;
+        text-align: left;
+
+}
+.color, .size, .qty{
+
+    display: inline-flex;
+    margin-right: 9%;
+    margin-bottom: 7%;
+    color: #9a9a9a;
+}
+
+
+.wear-details button{
+
+    font-family: sans-serif;
+    color:  #454647;
+    font-size: 10px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px 20px;
+    letter-spacing: 2px;
+    
+    margin-right: 25%;
+}
+
+.wear-details button:hover{
+
+    background-color:black;
+    color:white;
+}

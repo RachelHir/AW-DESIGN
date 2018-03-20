@@ -1,0 +1,78 @@
+.footer{
+    height: 240px;
+    background:	#3e8e41;
+    /*margin-top: 50px;*/
+    padding: 20px;
+    
+    
+}
+.boxfooter{
+
+    height: 200px;
+    padding: 20px;
+}
+
+.footermenu {
+    
+    width:55%; 
+    display: inline-flex;
+    justify-content: space-around;
+    text-align: left; 
+    float: left;
+    
+}
+
+.information{
+    
+    margin-right: 15px;
+    width: 20%;
+    color:  white;
+    text-align: left; 
+    
+}
+
+.information ul{
+    position: relative;
+    color:  white;
+    margin-left: 0px;
+    padding:0px;
+    
+}
+
+
+.information li { 
+   
+    font-family: sans-serif;
+    color:  white;
+    font-size: 13px;
+    display: inline-block;
+    text-align: left;
+
+
+    
+}
+
+.hr{
+    border-left: 2px solid white;
+    height: 200px;
+    width: 0px;
+    /*display: inline-block;*/
+    float: left;
+
+}
+.symbol
+{
+    
+    width: 200px;
+    height: 150px;
+    color: white;
+    padding:35px;
+    text-align: center;
+    line-height:60px;
+    letter-spacing: 15px;
+    display: inline-block;
+    font-size: 40px; 
+        
+   
+
+}
